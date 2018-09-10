@@ -1,4 +1,4 @@
-base_url = "https://hello-rust.show/"
+base_url = "https://fervent-thompson-c8af43.netlify.com"
 compile_sass = false
 theme = "feather"
 highlight_code = true
